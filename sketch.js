@@ -93,7 +93,7 @@ function draw() {
 
   } else if (gameState == END) {
     count = 0;
-    score = 0;
+    //score = 0;
     backGround.velocityX = 0;
     monkey.velocityY = 0;
 
